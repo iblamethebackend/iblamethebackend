@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="240" viewBox="0 0 900 240" role="img" aria-label="Gaurav Sharma. It's never the frontend.">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#1e1033">
+        <animate attributeName="stop-color" values="#1e1033;#0f1f3d;#2a0f2e;#1e1033" dur="12s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="100%" stop-color="#3b0d4f">
+        <animate attributeName="stop-color" values="#3b0d4f;#5b1a2e;#0d2a4f;#3b0d4f" dur="12s" repeatCount="indefinite"/>
+      </stop>
+    </linearGradient>
+    <linearGradient id="title" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#a78bfa"/>
+      <stop offset="50%" stop-color="#f472b6"/>
+      <stop offset="100%" stop-color="#fb923c"/>
+    </linearGradient>
+    <style>
+      .t { font: 800 54px 'Segoe UI', Inter, Helvetica, Arial, sans-serif; letter-spacing: -1px; }
+      .s { font: 500 22px 'Segoe UI', Inter, Helvetica, Arial, sans-serif; fill: #e9d5ff; }
+      .m { font: 600 15px 'JetBrains Mono', Consolas, 'Courier New', monospace; fill: #c4b5fd; }
+      .r { opacity: 0; animation: cycle 16s infinite; }
+      .r2 { animation-delay: 4s; } .r3 { animation-delay: 8s; } .r4 { animation-delay: 12s; }
+      @keyframes cycle { 0%, 100% { opacity: 0; } 3%, 22% { opacity: 1; } 25% { opacity: 0; } }
+      .dot { animation: float 6s ease-in-out infinite; }
+      .d2 { animation-delay: -2s; } .d3 { animation-delay: -4s; }
+      @keyframes float { 0%, 100% { transform: translateY(0); } 50% { transform: translateY(-10px); } }
+      .bug { animation: walk 9s linear infinite; }
+      @keyframes walk { from { transform: translateX(-60px); } to { transform: translateX(960px); } }
+    </style>
+  </defs>
+
+  <rect width="900" height="240" rx="18" fill="url(#bg)"/>
+
+  <circle class="dot" cx="80" cy="50" r="40" fill="#8b5cf6" opacity=".18"/>
+  <circle class="dot d2" cx="820" cy="70" r="55" fill="#f472b6" opacity=".14"/>
+  <circle class="dot d3" cx="760" cy="200" r="30" fill="#fb923c" opacity=".18"/>
+
+  <text x="450" y="98" text-anchor="middle" class="t" fill="url(#title)">Hi, I'm Gaurav 👋</text>
+
+  <text x="450" y="142" text-anchor="middle" class="s r">It's never the frontend.</text>
+  <text x="450" y="142" text-anchor="middle" class="s r r2">I write the bugs AND the bug reports.</text>
+  <text x="450" y="142" text-anchor="middle" class="s r r3">Turning coffee into 500 Internal Server Errors.</text>
+  <text x="450" y="142" text-anchor="middle" class="s r r4">Prompt engineer. Mostly I just say "please".</text>
+
+  <text x="450" y="186" text-anchor="middle" class="m">MERN  ·  Flutter  ·  AI Engineer  ·  Professional Backend Blamer</text>
+
+  <g class="bug"><text y="226" font-size="18">🐛</text></g>
+</svg>

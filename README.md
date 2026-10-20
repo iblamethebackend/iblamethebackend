@@ -1,65 +1,162 @@
-<h1 align="center">Hi, I'm Gaurav. It's never the frontend.</h1>
-
 <p align="center">
-  <em>Full-stack (MERN) · Flutter · AI engineer · professional backend blamer</em>
+  <img src="assets/banner.svg" alt="Hi, I'm Gaurav. It's never the frontend." width="100%">
 </p>
 
 <p align="center">
-  <a href="https://www.gaurav-sharma.in"><img src="https://img.shields.io/badge/portfolio-gaurav--sharma.in-8b5cf6?style=for-the-badge" alt="Portfolio"></a>
-  <a href="https://www.linkedin.com/in/gauravsharma12"><img src="https://img.shields.io/badge/LinkedIn-connect-0a66c2?style=for-the-badge&logo=linkedin" alt="LinkedIn"></a>
-  <a href="mailto:gauravsharma.dev@outlook.com"><img src="https://img.shields.io/badge/email-yes%2C_I_reply-ea4335?style=for-the-badge&logo=maildotru&logoColor=white" alt="Email"></a>
+  <a href="https://www.gaurav-sharma.in"><img src="https://img.shields.io/badge/portfolio-gaurav--sharma.in-8b5cf6?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"></a>
+  <a href="https://www.linkedin.com/in/gauravsharma12"><img src="https://img.shields.io/badge/LinkedIn-let's_pretend_to_network-0a66c2?style=for-the-badge&logo=linkedin" alt="LinkedIn"></a>
+  <a href="mailto:gauravsharma.dev@outlook.com"><img src="https://img.shields.io/badge/email-I_actually_reply-ea4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
 
----
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=iblamethebackend&label=people%20who%20should%20be%20working&color=f472b6&style=flat-square" alt="Profile views">
+  <img src="https://img.shields.io/badge/bugs_fixed-many-22c55e?style=flat-square" alt="Bugs fixed">
+  <img src="https://img.shields.io/badge/bugs_created-more-ef4444?style=flat-square" alt="Bugs created">
+  <img src="https://img.shields.io/badge/coffee-required-a16207?style=flat-square&logo=buymeacoffee&logoColor=white" alt="Coffee">
+  <img src="https://img.shields.io/badge/status-blaming_the_backend-8b5cf6?style=flat-square" alt="Status">
+</p>
+
+<p align="center">
+  <img src="assets/terminal.svg" alt="Terminal: whoami, git blame production, cat excuses.txt, npm run deploy" width="100%">
+</p>
+
+## 🧑‍💻 About me (the honest version)
+
+| What my resume says | What it actually means |
+| --- | --- |
+| **MERN Full-Stack Developer** | I build the frontend, then the backend, then blame one for the other. |
+| **Flutter Developer Intern @ HRanker** | Shipped EdTech apps with courses, videos and quizzes. The quiz grades you. I don't. |
+| **AI Trainee @ Garage Collective** | Built an AI agent that writes daily social posts and cut content work by ~40%. It's more consistent on LinkedIn than I am. |
+| **B.Tech CSE @ JECRC (2022–2026)** | Learned that "it compiles" and "it works" are two very different emotions. |
+| **Username: iblamethebackend** | It's a lifestyle, not a bug. |
 
 ```js
 const gaurav = {
-  role: ["MERN Full-Stack Developer", "Flutter Developer", "AI Engineer"],
-  currently: "AI Trainee @ Garage Collective, teaching LLMs to write my LinkedIn posts",
-  previously: "Flutter Developer Intern @ HRanker (EdTech apps, yes the quiz worked)",
-  education: "B.Tech CSE @ JECRC, 2022–2026",
-  username: "iblamethebackend",
-  isItReallyTheBackend: "usually. sometimes it's DNS. once it was me.",
+  location: "localhost:3000",
+  languages: ["JavaScript", "TypeScript", "Dart", "Sarcasm"],
+  currentlyLearning: "how to center a div without googling it (day 1,284)",
+  askMeAbout: ["React", "Node.js", "Flutter", "making LLMs return valid JSON"],
+  realCommitMessages: ["some changes", "New change idk what"], // actual history, look it up
 };
 ```
 
 ## 🛠️ Things I break professionally
 
-<p>
-  <img src="https://img.shields.io/badge/React-20232a?style=flat-square&logo=react" alt="React">
-  <img src="https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs" alt="Next.js">
-  <img src="https://img.shields.io/badge/TypeScript-3178c6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js">
-  <img src="https://img.shields.io/badge/Express-000?style=flat-square&logo=express" alt="Express">
-  <img src="https://img.shields.io/badge/MongoDB-47a248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB">
-  <img src="https://img.shields.io/badge/Socket.IO-010101?style=flat-square&logo=socketdotio" alt="Socket.IO">
-  <img src="https://img.shields.io/badge/Flutter-02569b?style=flat-square&logo=flutter" alt="Flutter">
-  <img src="https://img.shields.io/badge/Dart-0175c2?style=flat-square&logo=dart&logoColor=white" alt="Dart">
-  <img src="https://img.shields.io/badge/Firebase-dd2c00?style=flat-square&logo=firebase&logoColor=white" alt="Firebase">
-  <img src="https://img.shields.io/badge/Gemini-8e75b2?style=flat-square&logo=googlegemini&logoColor=white" alt="Gemini">
-  <img src="https://img.shields.io/badge/n8n-ea4b71?style=flat-square&logo=n8n&logoColor=white" alt="n8n">
-  <img src="https://img.shields.io/badge/Tailwind-06b6d4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS">
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,nodejs,express,mongodb,tailwind&perline=8" alt="Web stack">
+  <br>
+  <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,git,github,vercel&perline=6" alt="Mobile and tools">
 </p>
 
-## 🚀 Stuff that actually shipped
+<p align="center">
+  <b>AI corner:</b>
+  <img src="https://img.shields.io/badge/Google_Gemini-8e75b2?style=flat-square&logo=googlegemini&logoColor=white" alt="Gemini">
+  <img src="https://img.shields.io/badge/Groq-f55036?style=flat-square" alt="Groq">
+  <img src="https://img.shields.io/badge/n8n-ea4b71?style=flat-square&logo=n8n&logoColor=white" alt="n8n">
+  <img src="https://img.shields.io/badge/Zod-3e67b1?style=flat-square&logo=zod&logoColor=white" alt="Zod">
+  <img src="https://img.shields.io/badge/Socket.IO-010101?style=flat-square&logo=socketdotio" alt="Socket.IO">
+</p>
 
-| Project | What it does | Links |
-| --- | --- | --- |
-| **Atlass CRM** | A CRM where you drag deals around a Kanban board until they feel closed. React 19, Express, MongoDB, plus Groq AI insights so the data can judge you. | [demo](https://thecrm-frontend.onrender.com) · [code](https://github.com/iblamethebackend/TheCRM) |
-| **HireMate** | Compares your resume with a job description using Gemini, then tells you exactly what you're missing. Emotional support not included. | [demo](https://hire-mate-rouge.vercel.app) · [code](https://github.com/iblamethebackend/HireMate) |
-| **PingChat** | Real-time chat with Socket.IO, Clerk auth and image uploads. Messages arrive instantly; replies are your friends' problem. | [demo](https://chat-app-6oi7.onrender.com) · [code](https://github.com/iblamethebackend/chat-app) |
-| **AI content agent** | Built at Garage Collective: writes daily Instagram, LinkedIn and blog drafts and cut manual content work by ~40%. Humans still approve. For now. | [how it works](https://www.gaurav-sharma.in/blog/ai-content-agent-gemini-n8n) |
+## 🚀 Stuff that actually shipped (and still runs, mostly)
 
-## ✍️ I also write things down
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>📊 Atlass CRM</h3>
+      <p>A CRM where you drag deals across a Kanban board until they <i>feel</i> closed. Groq AI reads your pipeline and gives insights, so now even the data judges you.</p>
+      <p><code>React 19</code> <code>Express</code> <code>MongoDB</code> <code>dnd-kit</code> <code>Groq</code></p>
+      <p><a href="https://thecrm-frontend.onrender.com">Live demo</a> · <a href="https://github.com/iblamethebackend/TheCRM">Code</a> · <a href="https://www.gaurav-sharma.in/projects/atlass-crm">Case study</a></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🎯 HireMate</h3>
+      <p>Paste your resume and a job description. Gemini tells you exactly what you're missing, then hands you a prep plan and interview questions. Emotional support sold separately.</p>
+      <p><code>React</code> <code>Express</code> <code>Gemini</code> <code>Zod</code> <code>JWT</code></p>
+      <p><a href="https://hire-mate-rouge.vercel.app">Live demo</a> · <a href="https://github.com/iblamethebackend/HireMate">Code</a> · <a href="https://www.gaurav-sharma.in/projects/hiremate">Case study</a></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>💬 PingChat</h3>
+      <p>Real-time chat with Socket.IO, Clerk auth and image uploads. Messages arrive instantly. Replies from your friends are not my responsibility.</p>
+      <p><code>React</code> <code>Socket.IO</code> <code>MongoDB</code> <code>Clerk</code> <code>Zustand</code></p>
+      <p><a href="https://chat-app-6oi7.onrender.com">Live demo</a> · <a href="https://github.com/iblamethebackend/chat-app">Code</a> · <a href="https://www.gaurav-sharma.in/projects/pingchat">Case study</a></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🤖 AI Content Agent</h3>
+      <p>Built at Garage Collective. Writes daily Instagram, LinkedIn and blog drafts and cut manual content work by roughly 40%. Humans still approve every post. For now.</p>
+      <p><code>Gemini</code> <code>n8n</code> <code>Node.js</code> <code>Zod</code></p>
+      <p><a href="https://www.gaurav-sharma.in/blog/ai-content-agent-gemini-n8n">How it works</a></p>
+    </td>
+  </tr>
+</table>
 
-- [Building a drag-and-drop Kanban board with dnd-kit, Express and MongoDB](https://www.gaurav-sharma.in/blog/react-kanban-dnd-kit-express-mongodb)
-- [Real-time chat with Socket.IO, Express and MongoDB](https://www.gaurav-sharma.in/blog/socketio-realtime-chat-express-mongodb)
-- [Reliable JSON from the Gemini API with Zod](https://www.gaurav-sharma.in/blog/gemini-structured-output-zod)
-- [Provider vs Bloc in Flutter](https://www.gaurav-sharma.in/blog/flutter-provider-vs-bloc-mvvm)
+<p align="center"><sub>Demos on Render's free tier take a moment to wake up. They're not broken, they're just like me before coffee.</sub></p>
+
+## 🔁 My development cycle
+
+```mermaid
+flowchart LR
+    A[Write code] --> B{Does it work?}
+    B -- Yes --> C[Don't touch it. Ever.]
+    B -- No --> D[Blame the backend]
+    D --> E{Who wrote the backend?}
+    E -- Me --> F[Stare at the wall]
+    F --> G[Add console.log everywhere]
+    G --> A
+```
+
+## ✍️ I also write things (on purpose)
+
+- 🧩 [Building a drag-and-drop Kanban board with dnd-kit, Express and MongoDB](https://www.gaurav-sharma.in/blog/react-kanban-dnd-kit-express-mongodb)
+- ⚡ [Real-time chat with Socket.IO, Express and MongoDB](https://www.gaurav-sharma.in/blog/socketio-realtime-chat-express-mongodb)
+- 🧠 [Getting reliable JSON out of Gemini with Zod](https://www.gaurav-sharma.in/blog/gemini-structured-output-zod)
+- 🤖 [How to build an AI content agent with Gemini and n8n](https://www.gaurav-sharma.in/blog/ai-content-agent-gemini-n8n)
+- 📱 [Provider vs Bloc in Flutter: when I use each](https://www.gaurav-sharma.in/blog/flutter-provider-vs-bloc-mvvm)
+
+## 🐍 A snake eating my contributions
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/iblamethebackend/iblamethebackend/output/snake-dark.svg">
+    <img src="https://raw.githubusercontent.com/iblamethebackend/iblamethebackend/output/snake.svg" alt="Snake eating the contribution graph">
+  </picture>
+</p>
+
+<p align="center"><sub>It's not lazy. It's eating the green squares so you can't count them.</sub></p>
+
+## ❓ Frequently asked questions
+
+<details>
+<summary><b>Is it really always the backend?</b></summary>
+<br>
+Statistically, no. Emotionally, yes.
+</details>
+
+<details>
+<summary><b>Why "iblamethebackend" if you also write backends?</b></summary>
+<br>
+Because accountability is a backend concern.
+</details>
+
+<details>
+<summary><b>Can you build my app?</b></summary>
+<br>
+Yes. Web apps, Flutter apps, AI agents and automations. Real answers (no sarcasm, promise) at <a href="https://www.gaurav-sharma.in/services">gaurav-sharma.in/services</a>.
+</details>
+
+<details>
+<summary><b>Do you use AI to write code?</b></summary>
+<br>
+I use AI the way you use Stack Overflow: confidently, and then I read the code anyway.
+</details>
 
 ## 🤝 Hire me (I promise the backend is fine)
 
-Open to freelance and full-time work: web apps, Flutter apps, AI agents and automations.
-Details at **[gaurav-sharma.in/services](https://www.gaurav-sharma.in/services)**.
+Open to **freelance and full-time** work: MERN web apps, Flutter apps, AI agents and automation.
 
-<p align="center"><sub>Works on my machine. Ships on yours.</sub></p>
+<p align="center">
+  <a href="https://www.gaurav-sharma.in/services"><img src="https://img.shields.io/badge/See_what_I_build-→-f472b6?style=for-the-badge" alt="Services"></a>
+  <a href="mailto:gauravsharma.dev@outlook.com"><img src="https://img.shields.io/badge/Email_me-before_the_bug_does-8b5cf6?style=for-the-badge&logo=gmail&logoColor=white" alt="Email me"></a>
+</p>
+
+<p align="center"><sub>Works on my machine. Ships on yours. 🚀</sub></p>

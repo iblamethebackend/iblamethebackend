@@ -1,0 +1,73 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="350" viewBox="0 0 900 350" role="img" aria-label="Terminal: whoami, git blame production, cat excuses.txt, npm run deploy">
+  <style>
+    text { font: 14px 'JetBrains Mono', Consolas, 'Courier New', monospace; white-space: pre; }
+    .cur { animation: blink 1s steps(1) infinite; }
+    @keyframes blink { 50% { opacity: 0; } }
+  </style>
+  <rect width="900" height="350" rx="14" fill="#0d1117" stroke="#30363d"/>
+  <rect width="900" height="36" rx="14" fill="#161b22"/>
+  <rect y="22" width="900" height="14" fill="#161b22"/>
+  <circle cx="22" cy="18" r="6" fill="#ff5f57"/><circle cx="42" cy="18" r="6" fill="#febc2e"/><circle cx="62" cy="18" r="6" fill="#28c840"/>
+  <text x="450" y="23" text-anchor="middle" fill="#8b949e" style="font-size:12px">gaurav@prod: ~ (please don't touch anything)</text>
+
+  <clipPath id="c0"><rect x="28" y="52" height="24" width="0">
+    <animate attributeName="width" dur="20s" repeatCount="indefinite"
+      values="0;0;79;79;0" keyTimes="0;0.0300;0.0510;0.96;1"/>
+  </rect></clipPath>
+  <text x="28" y="70" clip-path="url(#c0)" fill="#e5e7eb"><tspan fill="#f472b6">$</tspan> whoami</text>
+
+  <clipPath id="c1"><rect x="28" y="78" height="24" width="0">
+    <animate attributeName="width" dur="20s" repeatCount="indefinite"
+      values="0;0;664;664;0" keyTimes="0;0.0685;0.0810;0.96;1"/>
+  </rect></clipPath>
+  <text x="28" y="96" clip-path="url(#c1)" fill="#a5b4fc">gaurav: full-stack dev, flutter dev, AI engineer, certified scapegoat finder</text>
+
+  <clipPath id="c2"><rect x="28" y="104" height="24" width="0">
+    <animate attributeName="width" dur="20s" repeatCount="indefinite"
+      values="0;0;200;200;0" keyTimes="0;0.1160;0.1860;0.96;1"/>
+  </rect></clipPath>
+  <text x="28" y="122" clip-path="url(#c2)" fill="#e5e7eb"><tspan fill="#f472b6">$</tspan> git blame production</text>
+
+  <clipPath id="c3"><rect x="28" y="130" height="24" width="0">
+    <animate attributeName="width" dur="20s" repeatCount="indefinite"
+      values="0;0;544;544;0" keyTimes="0;0.2035;0.2160;0.96;1"/>
+  </rect></clipPath>
+  <text x="28" y="148" clip-path="url(#c3)" fill="#a5b4fc">100% backend. (I am also the backend. we don't talk about it.)</text>
+
+  <clipPath id="c4"><rect x="28" y="156" height="24" width="0">
+    <animate attributeName="width" dur="20s" repeatCount="indefinite"
+      values="0;0;157;157;0" keyTimes="0;0.2510;0.3035;0.96;1"/>
+  </rect></clipPath>
+  <text x="28" y="174" clip-path="url(#c4)" fill="#e5e7eb"><tspan fill="#f472b6">$</tspan> cat excuses.txt</text>
+
+  <clipPath id="c5"><rect x="28" y="182" height="24" width="0">
+    <animate attributeName="width" dur="20s" repeatCount="indefinite"
+      values="0;0;587;587;0" keyTimes="0;0.3210;0.3335;0.96;1"/>
+  </rect></clipPath>
+  <text x="28" y="200" clip-path="url(#c5)" fill="#a5b4fc">"works on my machine" · "it's a caching issue" · "that's a feature"</text>
+
+  <clipPath id="c6"><rect x="28" y="208" height="24" width="0">
+    <animate attributeName="width" dur="20s" repeatCount="indefinite"
+      values="0;0;200;200;0" keyTimes="0;0.3685;0.4385;0.96;1"/>
+  </rect></clipPath>
+  <text x="28" y="226" clip-path="url(#c6)" fill="#e5e7eb"><tspan fill="#f472b6">$</tspan> ask-ai "fix my code"</text>
+
+  <clipPath id="c7"><rect x="28" y="234" height="24" width="0">
+    <animate attributeName="width" dur="20s" repeatCount="indefinite"
+      values="0;0;569;569;0" keyTimes="0;0.4560;0.4685;0.96;1"/>
+  </rect></clipPath>
+  <text x="28" y="252" clip-path="url(#c7)" fill="#a5b4fc">Sure! Here's your code, now with 3 new bugs and a confident tone.</text>
+
+  <clipPath id="c8"><rect x="28" y="260" height="24" width="0">
+    <animate attributeName="width" dur="20s" repeatCount="indefinite"
+      values="0;0;148;148;0" keyTimes="0;0.5035;0.5525;0.96;1"/>
+  </rect></clipPath>
+  <text x="28" y="278" clip-path="url(#c8)" fill="#e5e7eb"><tspan fill="#f472b6">$</tspan> npm run deploy</text>
+
+  <clipPath id="c9"><rect x="28" y="286" height="24" width="0">
+    <animate attributeName="width" dur="20s" repeatCount="indefinite"
+      values="0;0;389;389;0" keyTimes="0;0.5700;0.5825;0.96;1"/>
+  </rect></clipPath>
+  <text x="28" y="304" clip-path="url(#c9)" fill="#86efac">✔ deployed   ✔ it works   ✖ nobody knows why</text>
+  <rect class="cur" x="28" y="314" width="9" height="18" fill="#f472b6"/>
+</svg>
